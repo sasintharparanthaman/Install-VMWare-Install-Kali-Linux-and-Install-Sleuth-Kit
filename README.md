@@ -1,4 +1,9 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+
+# NAME: SASINTHAR P
+# REGISTER NO: 212223230199
+
+
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
